@@ -64,8 +64,10 @@
 ## インターンシップ経験
 株式会社EpicAI 2024年8月-現在
 https://epicai.co.jp/
-担当プロジェクト(抜粋)
-### 設計図面の作図自動化プロジェクト
+
+### 担当プロジェクト(抜粋)
+**設計図面の作図自動化プロジェクト**
+
 「Panasonic Accelerator by Electric Works Company」にて設計図面の作図自動化に向けた取り組みが評価され最優秀賞である社長賞を受賞
 https://prtimes.jp/main/html/rd/p/000006181.000003442.html
 ## Github統計
