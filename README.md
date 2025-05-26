@@ -63,9 +63,8 @@ https://epicai.co.jp/
 担当プロジェクト(抜粋)
 ### 設計図面の作図自動化プロジェクト
 「Panasonic Accelerator by Electric Works Company」にて設計図面の作図自動化に向けた取り組みが評価され最優秀賞である社長賞を受賞
-
-## Github統計
 https://prtimes.jp/main/html/rd/p/000006181.000003442.html
+## Github統計
 [![](profile-summary-card-output/transparent/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](profile-summary-card-output/transparent/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](profile-summary-card-output/transparent/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](profile-summary-card-output/transparent/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](profile-summary-card-output/transparent/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
