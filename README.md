@@ -73,20 +73,16 @@ I continually study to hone my skills and regularly build AI systems and machine
 ## Internship & Hackathon Experience
 ### Internship
 EpicAI Inc. (August 2024 – Present)
-
 https://epicai.co.jp/
 
 CALTA HOLDINGS(June 2025)
-
 https://cartaholdings.co.jp/
 
 SoftBank Inc.(Augest 2025 - September 2025)
-
 https://www.softbank.jp/corp/
 
 ### Hackathon
 PKSHA TECHNOLOGY AI Agent Hackathon
-
 https://www.pkshatech.com/
 
 ### Selected Project
