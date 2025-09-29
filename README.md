@@ -70,6 +70,14 @@ I continually study to hone my skills and regularly build AI systems and machine
 * Docker
 * docker-compose
 
+## Kaggle Competition
+Competition Expert
+https://www.kaggle.com/sorawww31
+* NeurIPS 2024 - Lux AI Season 3 **Bronze Medal**
+  * 92nd out of 701 teams
+* CMI - Detect Behavior with Sensor Data **Bronze Medal**
+  * 253rd out of 2657 teams
+
 ## Internship & Hackathon Experience
 ### Internship
 EpicAI Inc. (August 2024 – Present)
