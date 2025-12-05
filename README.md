@@ -77,7 +77,10 @@ https://www.kaggle.com/sorawww31
   * 92nd out of 701 teams
 * CMI - Detect Behavior with Sensor Data **Bronze Medal**
   * 253rd out of 2657 teams
-
+* BirdCLEF+ 2025
+  * https://github.com/sorawww31/bird_clef
+* NFL Big Data Bowl 2026 - Prediction
+  * https://github.com/sorawww31/bigbowl
 ## Internship & Hackathon Experience
 ### Internship
 EpicAI Inc. (August 2024 – Present)
@@ -88,6 +91,9 @@ https://cartaholdings.co.jp/
 
 SoftBank Inc.(Augest 2025 - September 2025)
 https://www.softbank.jp/corp/
+
+ACES (September 2025 - now)
+https://acesinc.co.jp/
 
 ### Hackathon
 PKSHA TECHNOLOGY AI Agent Hackathon
