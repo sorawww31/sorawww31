@@ -73,6 +73,9 @@ I continually study to hone my skills and regularly build AI systems and machine
 ## Kaggle Competition
 Competition Expert
 https://www.kaggle.com/sorawww31
+
+My Kaggle Template
+https://github.com/sorawww31/kaggle_template
 * NeurIPS 2024 - Lux AI Season 3 **Bronze Medal**
   * 92nd out of 701 teams
 * CMI - Detect Behavior with Sensor Data **Bronze Medal**
