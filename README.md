@@ -70,12 +70,12 @@ I continually study to hone my skills and regularly build AI systems and machine
 * Docker
 * docker-compose
 
-## Kaggle Competition
+## ML Competition
+### Kaggle
 Competition Expert
+
 https://www.kaggle.com/sorawww31
 
-My Kaggle Template
-https://github.com/sorawww31/kaggle_template
 * NeurIPS 2024 - Lux AI Season 3 **Bronze Medal**
   * 92nd out of 701 teams
 * CMI - Detect Behavior with Sensor Data **Bronze Medal**
@@ -84,9 +84,18 @@ https://github.com/sorawww31/kaggle_template
   * https://github.com/sorawww31/bird_clef
 * NFL Big Data Bowl 2026 - Prediction
   * https://github.com/sorawww31/bigbowl
+### atmaCup
+**22 CA x atmaCup 3rd :||**
+ * 16th / 241 teams (Overall)
+ * 3rd Place Student (Prize Winner: 10,000 JPY)
+ * https://github.com/sorawww31/ca_atma
+
+### My Template
+https://github.com/sorawww31/kaggle_template
+
 ## Internship & Hackathon Experience
 ### Internship
-EpicAI Inc. (August 2024 – Present)
+EpicAI Inc. (August 2024 – Augest 2025)
 https://epicai.co.jp/
 
 CALTA HOLDINGS(June 2025)
