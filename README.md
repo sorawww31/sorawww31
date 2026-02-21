@@ -13,6 +13,9 @@
   * BABYMETAL
   * MAXIMUM THE HORMONE
 
+## Our Paper
+We are currently preparing the paper. Please bear with us for a little while.
+
 ## Machine Learning
 
 I continually study to hone my skills and regularly build AI systems and machine learning models through Kaggle competitions, academic research, and internships.
@@ -22,7 +25,7 @@ I continually study to hone my skills and regularly build AI systems and machine
 * **Data types handled:**
 
   * Tabular data
-  * Images
+  * Images & CV
   * Audio
   * Natural language
   * Time-series data
@@ -34,12 +37,11 @@ I continually study to hone my skills and regularly build AI systems and machine
   * Seaborn
   * scikit-learn
   * Gradient Boosting Decision Trees
-
+  * OpenCV
     * LGBM
     * XGBoost
     * CatBoos
   * Deep Learning
-
     * PyTorch
     * TensorFlow
     * Keras
@@ -58,32 +60,29 @@ I continually study to hone my skills and regularly build AI systems and machine
 * C++
 * JavaScript
 
-## Currently Studying
-
-* Competitive Programming
-* Data Science
-
 ## Other Tools
 
 * Git
 * GitHub
 * Docker
 * docker-compose
+* AWS
 
 ## ML Competition
 ### Kaggle
 Competition Expert
 
 https://www.kaggle.com/sorawww31
-
+* NFL Big Data Bowl 2026 - Prediction **Silver Medal**
+  * 42nd out of 1899 teams
+  * https://github.com/sorawww31/bigbowl
 * NeurIPS 2024 - Lux AI Season 3 **Bronze Medal**
   * 92nd out of 701 teams
 * CMI - Detect Behavior with Sensor Data **Bronze Medal**
   * 253rd out of 2657 teams
 * BirdCLEF+ 2025
   * https://github.com/sorawww31/bird_clef
-* NFL Big Data Bowl 2026 - Prediction
-  * https://github.com/sorawww31/bigbowl
+
 ### atmaCup
 **22 CA x atmaCup 3rd :||**
  * 16th / 241 teams (Overall)
@@ -103,6 +102,8 @@ https://cartaholdings.co.jp/
 
 SoftBank Inc.(Augest 2025 - September 2025)
 https://www.softbank.jp/corp/
+
+CyberAgent Inc.(2025 Novenber)
 
 ACES (September 2025 - now)
 https://acesinc.co.jp/
